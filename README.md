@@ -34,7 +34,7 @@ npm run dev
 
 - Deletar um item por ID:
 
-![delete](prints/delete.png)
+![delete](prints/deletar.png)
 
 - Buscar um item específico por ID:
 
