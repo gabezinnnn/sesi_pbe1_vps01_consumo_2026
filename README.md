@@ -30,7 +30,7 @@ npm run dev
 
 - Atualizar um item por ID:
 
-![update](prints/patch.png)
+![update](prints/atualizei.png)
 
 - Deletar um item por ID:
 
