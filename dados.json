@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "local": "Biblioteca",
+        "equipamento": "Ar-condicionado",
+        "consumo_kwh": 185.4,
+        "mes_referencia": "2026-09",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 2,
+        "local": "Laboratório LMT",
+        "equipamento": "Notebook",
+        "consumo_kwh": 42,
+        "mes_referencia": "2025-10",
+        "status": "Consumo normal"
+    },
+    {
+        "id": 3,
+        "local": "Refeitório",
+        "equipamento": "Geladeira Comercial",
+        "consumo_kwh": 210.5,
+        "mes_referencia": "2026-04",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 4,
+        "local": "Laboratório Maker",
+        "equipamento": "Impressora 3d",
+        "consumo_kwh": 415,
+        "mes_referencia": "2026-06",
+        "status": "Consumo elevado"
+    },
+    {
+        "id": 5,
+        "local": "Pátio",
+        "equipamento": "Lâmpada LED",
+        "consumo_kwh": 5.2,
+        "mes_referencia": "2025-12",
+        "status": "Consumo normal"
+    }
+]

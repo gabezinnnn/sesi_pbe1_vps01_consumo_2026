@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consumo de Energia</title>
+</head>
+
+<body>
+    <form action="http://localhost:3000/consumo" method="post">
+        <label>Equipamento:</label>
+        <input type="text" name="equipamento" required>
+        <br>
+        <label>Local:</label>
+        <input type="text" name="local" required>
+        <br>
+        <label>Consumo em KWh:</label>
+        <input type="number" step="0.1" name="consumo_kwh" required>
+        <br>
+        <label>Mês de Referência:</label>
+        <input type="text" placeholder="(aaaa-mm)" name="mes_referencia" required>
+        <br>
+        <label>Consumo:</label>
+        <select name="status" required>
+            <option value="Consumo fraco">Fraco</option>
+            <option value="Consumo normal">Normal</option>
+            <option value="Consumo elevado">Elevado</option>
+        </select>
+        <button type="submit">Confirmar</button>
+    </form>
+</body>
+
+</html>
