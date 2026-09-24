@@ -1,5 +1,9 @@
 # VPF01 - Back-End - Rastreamento de consumo e disperdício de energia
 Atividade avaliativa de back-end com mockup em dados .JSON e funcionalidades CRUD padrão.
+
+## Explicação do tema
+O SESI precisava de um sistema para registrar equipamentos ou locais e acompanhar consumo energético, identificando possíveis desperdícios.
+
 ## Tecnologias
 - **Node.sj;**
 - **JavaScript;**
