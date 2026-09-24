@@ -8,12 +8,14 @@ Atividade avaliativa de back-end com mockup em dados .JSON e funcionalidades CRU
 - **VsCode** Live Server.
 ## Passos para testar
 1- Clone este repositório;
+
 2- Abra com o **VSCode** e em um terminal, digite:
 ```cmd
 npm install
 npm run dev
 ```
 3- Teste as rotas com a extensão `Thunder Client` do **VSCode**;
+
 4- Abra o arquivo `client/index.html` com a extensão `Live Server` do **VSCode**.
 
 ## Print dos testes e exemplo de requisições
